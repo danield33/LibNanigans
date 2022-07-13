@@ -1,0 +1,5 @@
+name: LibNanigans
+version: ${project.version}
+main: me.nanigans.libnanigans.LibNanigans
+authors: [ ProNanigans ]
+description: A Util library for developing plugins
